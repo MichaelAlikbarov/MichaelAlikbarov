@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋
+Hello! I have been studying development since June 2022 at the Yandex Practicum courses - https://practicum.yandex.ru/. This repository contains educational project work. 
+Technologies studied: HTML, CSS, JS, Node, MongoDB, React, styled-component.
 
 <!--
 **MichaelAlikbarov/MichaelAlikbarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
